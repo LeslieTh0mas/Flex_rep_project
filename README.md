@@ -4,8 +4,8 @@
   Also included is a scatter plot featuring training hours by associate. There are series of functions to calculate Sum, Mean, Median, Maximum, and Minimum for training hours.
   
   Relevant packages that need to be installed to run the project:
-pip install notebook
-pip install pandas
-pip install matplotlib
-pip install openpyxl
-pip install pylance
+%pip install notebook
+%pip install pandas
+%pip install matplotlib
+%pip install openpyxl
+%pip install pylance
