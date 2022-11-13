@@ -18,9 +18,14 @@ Visualize your data. The standard choice here is just making a couple visualizat
 Feature 5:
 Interpret your data and graphical output. If your project is in a Jupyter Notebook, this should be between the important cells. Write markdown cells in Jupyter explaining your thought process and code. 
   
-  Relevant packages that need to be installed to run the project:
+Relevant packages that need to be installed to run the project:
+
 %pip install notebook
+
 %pip install pandas
+
 %pip install matplotlib
+
 %pip install openpyxl
+
 %pip install pylance
