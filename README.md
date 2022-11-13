@@ -14,6 +14,9 @@ I read in a data frame, then did 5 basic calculations with Pandas, finding the s
 
 Feature 4: 
 Visualize your data. The standard choice here is just making a couple visualizations then interpreting them to say something about your data. I created two scatterplots to show training hours by trainer and training hours by associate.
+
+Feature 5:
+Interpret your data and graphical output. If your project is in a Jupyter Notebook, this should be between the important cells. Write markdown cells in Jupyter explaining your thought process and code. 
   
   Relevant packages that need to be installed to run the project:
 %pip install notebook
